@@ -44,7 +44,7 @@
     float: left;
     background: rosybrown;
     width: 33%;
-    height: 600px;  
+    height: 800px;  
     text-align: center; 
     font-size: 13pt;
 	line-height: 1.4em; 
@@ -53,7 +53,7 @@
 #mid{
     background: green;
     width: 33%;
-    height: 600px;  
+    height: 800px;  
     text-align: center; 
     font-size: 13pt;
 	line-height: 1.4em; 
@@ -65,7 +65,7 @@
     float: right;
     background: gray;
     width: 33%;
-    height: 600px;  
+    height: 800px;  
     text-align: center; 
     font-size: 13pt;
 	line-height: 1.4em; 
